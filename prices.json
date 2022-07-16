@@ -1,0 +1,24 @@
+{
+    "paket": [
+        {
+            "name": "bayi",
+            "price": 27800,
+            "sale_price": 19800
+        },
+        {
+            "name": "pelajar",
+            "price": 64800,
+            "sale_price": 44800
+        },
+        {
+            "name": "personal",
+            "price": 104250,
+            "sale_price": 67800
+        },
+        {
+            "name": "bisnis",
+            "price": 153800,
+            "sale_price": 91800
+        }
+    ]
+}
